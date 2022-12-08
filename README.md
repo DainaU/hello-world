@@ -1,14 +1,21 @@
 # hello-world
 My first repository
 ## About me
-Hello world! My name is Daina Ulmer. I am 27 years old and I'm from Houston, Texas. I am currently a stay-at-home mother. I have a wonderful husband name Jun Huang and two beautiful kids named Aeris and Bruce. I am studying in Data Analytics through Google Coursera. I always wondered as a child how do we collect so much information about the world we live in and how do we store it, clean it, and update it. I never gotten a chance to understand it until I came across Coursera for Data analytics. I find it so amazing how much information the world has holding inside the internet and it is constantly changing. I want to learn data analytics to improve my skills and help companies, businesses and the people around me. I know with GitHub and more I will be able to achieve my goals. Thank you for reading about me!
+Hello world! My name is Daina Ulmer. I live in Rosenberg, Texas. I love learning new things everyday to further my skills in hopes to gain exprience through work.
+
+**How did I get into Data analytics?**
+
+I am studying in Data Analytics through Google Coursera. I always wondered as a child how do we collect so much information about the world we live in and how do we store it, clean it, and update it. I never gotten a chance to understand it until I came across Coursera for Data analytics.
+
+**What about data interest me most?**
+
+I find it so amazing how much information the world has holding inside the internet and it is constantly changing. I find it challenging to learn something that isn't normal my normal day to day work but that is the exciting thing about learning data analytics. Data is everywhere and changing everday. With enough data you can influence the world to change in a positive way and that is what I want to achieve. 
 
 **My Goals in life** 
 - To become a Data Analyst
+- To help the world become a better place
 - Travel to different countries
-- To live somewhere outside of Texas
-- To own some land and build a very new house for me and my family
-- To create an app on spreading awareness about ASD or Autism and cilmate change
+- To study more about data science
 
 **Skills I have learned so far**
 - Intro to SQL using BigQuery
