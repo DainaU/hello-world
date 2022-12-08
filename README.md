@@ -35,5 +35,5 @@ This is only to name a few. There is so much more to learn.
 If you are interested in seeing my progress with Coursera and future events than please feel free to check out my portfolios or social media in the links below.
 
 -[Linkin portfolio](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
--[Tableau portfolio](https://public.tableau.com/app/profile/daina.ulmer4951?authMode=activationSuccess)
+-[Tableau portfolio](https://public.tableau.com/app/profile/daina.ulmer)
 -[Twitter social media](https://twitter.com/Daina_Ulmer)
