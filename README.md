@@ -30,6 +30,12 @@ I find it so amazing how much information the world has holding inside the inter
 - Create visualizations 
 This is only to name a few. There is so much more to learn.
 
+**Skill Update**
+-Basic Python
+
+**Certificates**
+
+
 **My Portfolio**
 
 If you are interested in seeing my progress with Coursera and future events than please feel free to check out my portfolios or social media in the links below.
